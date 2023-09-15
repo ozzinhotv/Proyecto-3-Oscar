@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#the-excuse {
+  background-color: aqua;
+  text-shadow: 50px;
+}
